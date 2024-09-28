@@ -8,17 +8,4 @@
  body{
   background-color: rgb(216, 253, 253);
  }
-.main-section nav {
-  background-color: gray;
-  padding: 20px;
-  position: sticky;
-  top: 0;
-  z-index: 10;
-}
-.main-section nav a{
-  color: white;
-  text-decoration: none;
-  padding: 20px;
-  font-size: 24px;
-  font-weight: bold;
-}
+ 
